@@ -104,6 +104,9 @@
       <dir>$PROJECT_DIR$/app/Http/Controllers</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -245,6 +248,7 @@
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -256,82 +260,6 @@
             <path>
               <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
               <item name="sgie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="alunos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="cursos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="instituicao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="parts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="parts" type="462c0819:PsiDirectoryNode" />
-              <item name="modal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sgie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sgie" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -387,17 +315,17 @@
       <updated>1569029013003</updated>
       <workItem from="1569029014724" duration="7542000" />
       <workItem from="1569084953572" duration="17678000" />
-      <workItem from="1569148123759" duration="44242000" />
+      <workItem from="1569148123759" duration="44511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69462000" />
+    <option name="totallyTimeSpent" value="69731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32471728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32471728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -410,7 +338,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32884902" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32884902" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
