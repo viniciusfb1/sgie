@@ -1,0 +1,75 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~mdbootstrap/scss/mdb';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.bg-education{
+    background: url('../images/bg.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.full-height {
+    height: 100vh;
+    background-color: rgba(255,255,255,0.5);
+}
+
+.form-login{
+    .card {
+        background-color: rgba(255,255,255,0.7);
+        .card-header{
+            background-color: transparent;
+        }
+        .card-body {
+            background-color: transparent;
+        }
+    }
+}
+
+.mt-10p{
+    margin-top: 10%;
+}
+
+.btn-add {
+    position: absolute;
+    right: 20px;
+    bottom: 30px;
+    padding: 0!important;
+    padding-top: 5px!important;
+    font-size: 25px !important;
+}
+
+.btn-floating.btn-lg {
+    width: 61.1px;
+    height: 61.1px;
+
+}
+
+.btn-floating {
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+    position: fixed;
+    z-index: 1;
+    vertical-align: middle;
+    display: inline-block;
+    overflow: hidden;
+    transition: all .2s ease-in-out;
+    margin: 10px;
+    border-radius: 50%;
+    padding: 0;
+    cursor: pointer;
+    width: 47px;
+    height: 47px;
+}
